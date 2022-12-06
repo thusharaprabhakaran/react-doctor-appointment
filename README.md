@@ -5,9 +5,9 @@ A Patient Can Select doctor appointment via online as date he/she want.
 ## What Feature You will Find Here ?
 - Dynamic Home page which landing page for all user
 - Admin Dashboard and User Dashboard
-- User Login Page (Login Page i have tried handle all kinds of validation and make it professional you should look at his once)
-- User selecte appointment | patient can chose doctor and get doctor information also see there appointed information
-- select doctor and see my appointment date 
+- User Login Page 
+- User select appointment 
+- Select doctor and see my appointment date 
 - CRUD operation and many more
 - Responsiveness and Dyanmic Header and Preloader
 
