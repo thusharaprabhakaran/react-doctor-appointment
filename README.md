@@ -29,19 +29,19 @@ A Patient Can Select doctor appointment via online as date he/she want.
 Authentication : 
 - Firebase Host:Firebase, netlify, Heroku
 
-# Sign In Page
+## Sign In Page
 
-# Sign Up page
+## Sign Up page
 
 ## Landing Page
 
-# User Have to Logged in and Add his Appointment
+## User Have to Logged in and Add his Appointment
 
-# Get AppointMenet
+## Get AppointMenet
 
-# Appointment
+## Appointment
 
-# Daashboard 
+## Daashboard 
 
-# All Patient List 
+## All Patient List 
 
